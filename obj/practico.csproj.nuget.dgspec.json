@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\practicofinal\\practico\\practico.csproj": {}
+    "C:\\Users\\FRANCO\\Documents\\GitHub\\Proyecto_Final_Prog3\\practico.csproj": {}
   },
   "projects": {
-    "D:\\practicofinal\\practico\\practico.csproj": {
+    "C:\\Users\\FRANCO\\Documents\\GitHub\\Proyecto_Final_Prog3\\practico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\practicofinal\\practico\\practico.csproj",
+        "projectUniqueName": "C:\\Users\\FRANCO\\Documents\\GitHub\\Proyecto_Final_Prog3\\practico.csproj",
         "projectName": "practico",
-        "projectPath": "D:\\practicofinal\\practico\\practico.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\practicofinal\\practico\\obj\\",
+        "projectPath": "C:\\Users\\FRANCO\\Documents\\GitHub\\Proyecto_Final_Prog3\\practico.csproj",
+        "packagesPath": "C:\\Users\\FRANCO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FRANCO\\Documents\\GitHub\\Proyecto_Final_Prog3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\FRANCO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
