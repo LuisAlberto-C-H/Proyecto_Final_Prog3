@@ -6,7 +6,7 @@
         public static void ejercicio2()
         {
             Console.WriteLine("V.2. Ingrese los elementos del vector separados por comas:");
-            string input = Console.ReadLine();
+            string input = Console.ReadLine()!;
 
             string[] values = input.Split(',');
 
@@ -90,7 +90,7 @@
         public static void ejercicio3()
         {
             Console.WriteLine("V.3. Ingrese los elementos del vector separados por comas:");
-            string input = Console.ReadLine();
+            string input = Console.ReadLine()!;
             string[] elements = input.Split(',');
 
             int[] vector = new int[elements.Length];
@@ -133,7 +133,7 @@
         public static void ejercicio4()
         {
             Console.WriteLine("V.4. Ingrese los elementos del vector separados por comas:");
-            string input = Console.ReadLine();
+            string input = Console.ReadLine()!;
 
             string[] elements = input.Split(',');
 
@@ -199,7 +199,7 @@
         public static void ejercicio5()
         {
             Console.WriteLine("V.5. Ingrese los elementos del vector separados por comas:");
-            string input = Console.ReadLine();
+            string input = Console.ReadLine()!;
 
             string[] elements = input.Split(',');
 

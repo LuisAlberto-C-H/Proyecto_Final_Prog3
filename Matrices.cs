@@ -48,10 +48,10 @@
         public static void ejercicio2()
         {
             Console.Write("M.2. Ingrese el número de filas de la matriz: ");
-            int filas = int.Parse(Console.ReadLine());
+            int filas = int.Parse(Console.ReadLine()!);
 
             Console.Write("M.2. Ingrese el número de columnas de la matriz: ");
-            int columnas = int.Parse(Console.ReadLine());
+            int columnas = int.Parse(Console.ReadLine()!);
 
             int[,] matriz = new int[filas, columnas];
 
@@ -82,10 +82,10 @@
         public static void ejercicio3()
         {
             Console.Write("M.3. Ingrese el número de filas de la matriz: ");
-            int filas = int.Parse(Console.ReadLine());
+            int filas = int.Parse(Console.ReadLine()!);
 
             Console.Write("M.3. Ingrese el número de columnas de la matriz: ");
-            int columnas = int.Parse(Console.ReadLine());
+            int columnas = int.Parse(Console.ReadLine()!);
 
             int[,] matriz = new int[filas, columnas];
 
@@ -129,10 +129,10 @@
         public static void ejercicio4()
         {
             Console.Write("M.4. Ingrese el número de filas de la matriz: ");
-            int filas = int.Parse(Console.ReadLine());
+            int filas = int.Parse(Console.ReadLine()!);
 
             Console.Write("M.4. Ingrese el número de columnas de la matriz: ");
-            int columnas = int.Parse(Console.ReadLine());
+            int columnas = int.Parse(Console.ReadLine()!);
 
             int[,] matriz = new int[filas, columnas];
 
@@ -170,10 +170,10 @@
         public static void ejercicio5()
         {
             Console.WriteLine("M.5. Ingrese el número de filas de la matriz: ");
-            int filas = int.Parse(Console.ReadLine());
+            int filas = int.Parse(Console.ReadLine()!);
 
             Console.WriteLine("M.5. Ingrese el número de columnas de la matriz: ");
-            int columnas = int.Parse(Console.ReadLine());
+            int columnas = int.Parse(Console.ReadLine()!);
 
             // Creamos la matriz
             int[,] matriz = new int[filas, columnas];
